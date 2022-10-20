@@ -3,6 +3,8 @@ description: Just another documentation theme compatible with GitHub Pages
 
 theme: null
 
+url: "https://familykt.github.io"
+
 # debug:
 #   compress: true
 #   dist: false
